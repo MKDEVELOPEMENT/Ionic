@@ -1,0 +1,7 @@
+{
+  "ionic Medium":{
+    "hull": "ionic:ionicMedium",
+    "items": "6*rep core:mediumArmor-1 core:bigShield-1 ionic:ionGun-1",
+    "money": 300
+  }
+}

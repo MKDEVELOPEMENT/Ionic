@@ -1,0 +1,11 @@
+{
+  "standard":{
+    "constantAllies": [
+      {
+        "hull": "ionic:ionicMedium",
+        "items": "core:fixedGun 0.5|core:mediumArmor 0.75|core:smallShield+core:shield",
+        "density": 2
+      }
+    ]
+  }
+}

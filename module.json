@@ -1,0 +1,11 @@
+{
+    "id" : "Ionic",
+    "version" : "0.1.0",
+    "displayName" : "Ionic Faction",
+    "description" : "Content related to Ionic Faction for in-game use",
+    "dependencies" :  [
+        {
+            "id" : "core"
+        }
+    ]
+}

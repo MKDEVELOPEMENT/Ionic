@@ -1,0 +1,19 @@
+{
+  "maxAngleVar": 7,
+  "angleVarDamp": 4,
+  "angleVarPerShot": 1,
+  "timeBetweenShots": 0.2,
+  "reloadTime": 1,
+  "price": 65,
+  "clipName": "core:ionBulletClip",
+  "gunLength": 0.16,
+  "texLenPerc": 0.7,
+  "displayName": "Machine Gun",
+  "lightOnShot": true,
+  "shootSounds": [
+    "core:gunShoot0"
+  ],
+  "reloadSounds": [
+    "core:gunReload"
+  ]
+}
