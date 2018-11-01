@@ -8,5 +8,10 @@
     "hull": "ionic:ionicBig",
     "items": "6*rep core:mediumArmor-1 core:bigShield-1 ionic:ionGun-1",
     "money": 1200
+  },
+  "ionic Capital":{
+    "hull": "ionic:ionicCapital",
+    "items": "6*rep core:mediumArmor-1 core:bigShield-1 ionic:ionGun-1",
+    "money": 4000
   }
 }
