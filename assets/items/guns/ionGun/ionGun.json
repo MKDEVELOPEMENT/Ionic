@@ -8,7 +8,7 @@
   "clipName": "ionic:ionBulletClip",
   "gunLength": 0.16,
   "texLenPerc": 0.7,
-  "displayName": "Machine Gun",
+  "displayName": "Ion Gun",
   "lightOnShot": true,
   "shootSounds": [
     "core:gunShoot0"
