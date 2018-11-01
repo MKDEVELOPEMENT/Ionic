@@ -11,7 +11,7 @@
   },
   "ionic Capital":{
     "hull": "ionic:ionicCapital",
-    "items": "6*rep core:mediumArmor-1 core:bigShield-1 ionic:ionGun-1",
+    "items": "99*rep core:mediumArmor-1 core:bigShield-1 ionic:ionBlaster-1 ionic:ionBlaster-2 99*ionic:ionBlasterClip",
     "money": 4000
   }
 }

@@ -1,0 +1,8 @@
+{
+  "projectile": "ionBlaster",
+  "size": 200,
+  "price": 40,
+  "displayName": "Ion Blasts",
+  "plural": "Ion Blasts",
+  "iconName": "ionBlasterClip"
+}

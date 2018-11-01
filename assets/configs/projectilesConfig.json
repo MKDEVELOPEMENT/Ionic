@@ -13,5 +13,20 @@
       "tex": "core:spark",
       "tint": "fire"
     }
+  },
+  "ionBlaster": {
+    "dmg": 4.4,
+    "spdLen": 15,
+    "dmgType": "bullet",
+
+    "tex": "ionic:ionBlast",
+    "texSz": 0.018,
+    "stretch": true,
+    "collisionEffect": {
+      "effectFile": "core:spark",
+      "size": 0.5,
+      "tex": "core:spark",
+      "tint": "fire"
+    }
   }
 }

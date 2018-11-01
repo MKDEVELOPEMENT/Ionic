@@ -1,0 +1,19 @@
+{
+  "maxAngleVar": 8,
+  "angleVarDamp": 5,
+  "angleVarPerShot": 1,
+  "timeBetweenShots": 0.1,
+  "reloadTime": 1,
+  "price": 350,
+  "clipName": "ionic:ionBlasterClip",
+  "gunLength": 0.16,
+  "texLenPerc": 0.7,
+  "displayName": "Ion Blaster",
+  "lightOnShot": true,
+  "shootSounds": [
+    "core:gunShoot0"
+  ],
+  "reloadSounds": [
+    "core:gunReload"
+  ]
+}
