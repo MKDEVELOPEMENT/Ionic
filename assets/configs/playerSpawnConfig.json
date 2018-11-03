@@ -1,4 +1,9 @@
 {
+  "ionic Small": {
+    "hull": "ionic:ionicSmall",
+    "items": "3*rep core:lightArmor-1 core:smallShield-1 core:blaster-1",
+    "money": 30
+  },
   "ionic Medium":{
     "hull": "ionic:ionicMedium",
     "items": "6*rep core:mediumArmor-1 core:bigShield-1 ionic:ionGun-1",
